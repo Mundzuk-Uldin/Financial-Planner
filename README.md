@@ -2,6 +2,9 @@
 
 An interactive tool that helps users visualize their financial future based on current habits and demonstrates how small changes can lead to significant improvements over time.
 
+# 🖥️🚀 Live Demo
+You can see the app here: https://financial-planner-miguel.streamlit.app/
+
 ## 🌟 Features
 
 - **Synthetic Data Generation**: Create realistic financial profiles for demonstration or testing
